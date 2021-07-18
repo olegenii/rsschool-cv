@@ -38,17 +38,21 @@ Great communication skills, responsibility, performance, initiative, hard work a
 *2010* - **Samara State Aerospace University**  
 (Computer science, Automated system management)  
 ### Additional education  
+
 **Linux**
 * RH124 Red Hat – System Administration 1 09/2012;
-* RH125 Red Hat – System Administration 2 12/2013;  
+* RH125 Red Hat – System Administration 2 12/2013;
+
 **Windows**
 * MS20410 – Install. and Config. Win Server 2012 08/2015;
 * MS20411 - Administering Win Server 2012 10/2015;
 * MS20412 – Config. adv. Win Server 2012 11/2015;
 * 20696С - SCCM Administration 12/2017;
 * 10962C – Advanced Admin Win PowerShell 11/2019;
+
 **Network**  
 * Cisco ICND1 v3.0 12/2016;
+
 **Others**  
 * IT Project Management 11/2018;
 * VMware vSphere 5.5 - Fast Track 10/2014;	
