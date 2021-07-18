@@ -58,7 +58,7 @@ Great communication skills, responsibility, performance, initiative, hard work a
 * VMware vSphere 5.5 - Fast Track 10/2014;	
 
 ### Languages
-*Russian — Native*
+*Russian — Native*  
 *English — C1 — Advanced*  
 * 4 years experience in international Joint Venture company as IT support (both oral and written) (2014-2018)  
 * Intermediate Business English Language Course (2013)
