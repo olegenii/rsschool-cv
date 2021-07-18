@@ -35,7 +35,7 @@ Great communication skills, responsibility, performance, initiative, hard work a
 * git
 * docker, docker-compose
 ### Code examples
-main pages for https://bonds.olegen.ru
+main page for https://bonds.olegen.ru
     
     <!doctype html>
     <html lang="ru">
@@ -51,11 +51,7 @@ main pages for https://bonds.olegen.ru
     </head>
     <body>
         <h1 align="center">Сервис поиска ликвидных облигаций</h1>
-            <p>
-
-            <!--<p align="center"><button onclick="window.location.href = '/bond_new';">Сформировать выборку </button>
-            <p align="center"><button onclick="window.location.href = '/bond';">Открыть выборку</button> -->
-
+        <p>
         <form align="center" action="/bond_new" method="post">
             <input type="number" value="7.00" step="0.01" min="-100" max="1000" width="3em" name="bidFrom" /> <= Доходность <= <input type="number" value="10.00"  step="0.01" min="-100" max="1000" width="3em" name="bidTill" />
             <br>
@@ -71,21 +67,21 @@ main pages for https://bonds.olegen.ru
             <br>
             <input type="submit" value="Сформировать выборку" />
         </form>
-            <p>
-            <p>
-            <p align="center"><button onclick="window.location.href = '/bond';">Открыть выборку</button>
-            <p>
-            <br>
-            <details align="center">
-                <summary>Информация</summary><small>
-                    <ol>
-                        <br> Сервис формирует выборку ликвидных облигаций по заданным параметрам.
-                        <br> Процесс может занимать до нескольких минут.
-                    </ol>
-                </small>
-            </details>
+        <p>
+        <p>
+        <p align="center"><button onclick="window.location.href = '/bond';">Открыть выборку</button>
+        <p>
+        <br>
+        <details align="center">
+            <summary>Информация</summary><small>
+                <ol>
+                    <br> Сервис формирует выборку ликвидных облигаций по заданным параметрам.
+                    <br> Процесс может занимать до нескольких минут.
+                </ol>
+            </small>
+        </details>
 
-            <!-- Optional JavaScript -->
+        <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorig>
