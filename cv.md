@@ -36,6 +36,7 @@ Great communication skills, responsibility, performance, initiative, hard work a
 * docker, docker-compose
 ### Code examples
 main pages for https://bonds.olegen.ru
+    
     <!doctype html>
     <html lang="ru">
     <head>
@@ -48,7 +49,6 @@ main pages for https://bonds.olegen.ru
         <style class="text/css">
         </style>
     </head>
-
     <body>
         <h1 align="center">Сервис поиска ликвидных облигаций</h1>
             <p>
