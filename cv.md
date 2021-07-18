@@ -119,4 +119,4 @@ main page for https://bonds.olegen.ru
 
 ### Electronic certificates
 *Red Hat Certified System Administrator (2014)*  
-*https://rhtapps.redhat.com/verify?certId=140-015-017
+*https://rhtapps.redhat.com/verify?certId=140-015-017*
