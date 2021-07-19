@@ -1,1 +1,0 @@
-https://olegenii.github.io/rsschool-cv/cv
