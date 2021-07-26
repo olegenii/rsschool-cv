@@ -1,4 +1,4 @@
-# Satalkin Oleg
+# Oleg Satalkin
 *Russia, Moscow*
 ## Contacts
 telegram: **@olegen**  
@@ -16,7 +16,7 @@ email: **oleg.satalkin@gmail.com**
 - Virtual Infrastructure Management (vmware, hyper-v);
 - Managing FLEXLM (Shlumberger, CGG, Landmark etc.) licenses;
 - Technical documentation development;
-- Company IT contracts managing (technical specification, budgeting, contract control, cost control)
+- Company IT contracts managing (technical specification, budgeting, contract control, cost control);
 - Acting as PM in internal IT projects;
 
 *04.2010 - 02.2012*  
@@ -33,14 +33,13 @@ Great communication skills, responsibility, performance, initiative, hard work a
 * Powershell and VBA scripting
 * HTML5, CSS, Javascript
 * git
-* docker, docker-compose
+* docker, docker-compose, docker swarm
 ### Code examples
-Bonds selection service(html+node.js in docker): https://bonds.olegen.ru
+Bonds selection service(html, JS with node.js in docker): https://bonds.olegen.ru
 ### Higher education
 *2010* - **Samara State Aerospace University**  
 (Computer science, Automated system management)  
 ### Additional education  
-
 **Linux**
 * RH124 Red Hat – System Administration 1 09/2012;
 * RH125 Red Hat – System Administration 2 12/2013;
@@ -57,7 +56,7 @@ Bonds selection service(html+node.js in docker): https://bonds.olegen.ru
 
 **Others**  
 * IT Project Management 11/2018;
-* VMware vSphere 5.5 - Fast Track 10/2014;	
+* VMware vSphere 5.5 - Fast Track 10/2014;
 
 ### Languages
 *Russian — Native*  
