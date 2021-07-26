@@ -1,0 +1,52 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-size: 12pt;
+  line-height: 1.5;
+}
+
+div.header-info {
+  float: left;
+  width: 50%;
+}
+
+div.name {
+  padding-top: 5%;
+}
+
+div.contact {
+  padding-bottom: 5%;
+}
+
+div.header-photo {
+  float: left;
+  width: 50%;
+  padding-top: 5%;
+}
+
+div.main {
+  float: left;
+}
+
+.img-photo {
+  width: 40%;
+  height: 40%;
+  padding: 0% 20%;
+}
+
+.img-logo {
+  width: 15%;
+  height: 15%;
+}
+
+div.footer {
+  float: left;
+  text-align: center;
+  width: 100%;
+}
+
+p.footer {
+  text-align: center;
+}
